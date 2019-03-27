@@ -95,7 +95,7 @@
         },
         { 
           "id": "AA018", 
-          "destinationId": "1",
+          "destinationId": 1,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
@@ -103,7 +103,7 @@
         },
         { 
           "id": "AA019", 
-          "destinationId": "1",
+          "destinationId": 1,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
@@ -111,7 +111,7 @@
         },
         { 
           "id": "AA220", 
-          "destinationId": "2",
+          "destinationId": 2,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
@@ -119,7 +119,7 @@
         },
         { 
           "id": "AA221", 
-          "destinationId": "2",
+          "destinationId": 2,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
@@ -133,7 +133,7 @@
       "flights": [
         { 
           "id": "UA001", 
-          "destinationId": "1",
+          "destinationId": 1,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
@@ -141,7 +141,7 @@
         },
         { 
           "id": "UA002", 
-          "destinationId": "1",
+          "destinationId": 1,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
@@ -149,7 +149,7 @@
         },
         { 
           "id": "UA100", 
-          "destinationId": "2",
+          "destinationId": 2,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
@@ -157,7 +157,7 @@
         },
         { 
           "id": "UA101", 
-          "destinationId": "2",
+          "destinationId": 2,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
@@ -165,7 +165,7 @@
         },
         { 
           "id": "UA102", 
-          "destinationId": "2",
+          "destinationId": 2,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
