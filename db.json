@@ -13,6 +13,7 @@
       "rating": 8.6,
       "totalVotes": 429,
       "location": "Albufeira, PT",
+      "locationId": 1,
       "description_1": "Hotel Las Palmas features an outdoor pool and a health club. Dining options at the hotel include a restaurant and a coffee shop/café. A bar/lounge is on site where guests can unwind with a drink.",
       "description_2": "A complimentary breakfast is offered each morning. A computer station is located on site and wired and wireless Internet access is complimentary.",
       "features": [
@@ -50,6 +51,7 @@
       "rating": 7.5,
       "totalVotes": 520,
       "location": "Maracaibo, VE",
+      "locationId": 2,
       "description_1": "The 5-star Crowne Plaza Maruma offers well-equipped rooms with 32-inch TVs and panoramic views of the city. The Crowne Plaza Maruma features tennis courts, gym, sauna, whirlpool, outdoor pool and body treatments.",
       "description_2": "In addition to a rich breakfast buffet, the restaurant serves international and Venezuelan food. There is also a bar available in the hotel, as well as room service 24 hours.",
       "features": [
@@ -75,6 +77,101 @@
         {"user": "Pedro Gonzalez", "profilePic": "user-4.jpg", "date": "Feb 11th, 2019", "rating": 7.8,  "text": "I had one of the best experiences ever in this hotel, one of the best of the city."}
       ],
       "roomsLeft": 6
+    }
+  ],
+
+  "airlines": [
+    { 
+      "id": 1, 
+      "name": "American Airlines",
+      "flights": [
+        { 
+          "id": "AA017", 
+          "destinationId": "1",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        },
+        { 
+          "id": "AA018", 
+          "destinationId": "1",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        },
+        { 
+          "id": "AA019", 
+          "destinationId": "1",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        },
+        { 
+          "id": "AA220", 
+          "destinationId": "2",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        },
+        { 
+          "id": "AA221", 
+          "destinationId": "2",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        }
+      ]
+    },
+    { 
+      "id": 2, 
+      "name": "United Airlines",
+      "flights": [
+        { 
+          "id": "UA001", 
+          "destinationId": "1",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        },
+        { 
+          "id": "UA002", 
+          "destinationId": "1",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        },
+        { 
+          "id": "UA100", 
+          "destinationId": "2",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        },
+        { 
+          "id": "UA101", 
+          "destinationId": "2",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        },
+        { 
+          "id": "UA102", 
+          "destinationId": "2",
+          "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
+          "rating": "Very good flight 8.1/10",
+          "features": "Wifi - Movies",
+          "Price": "450"
+        }
+      ]
     }
   ]
 }
