@@ -87,7 +87,7 @@
       "flights": [
         { 
           "id": "AA017", 
-          "destinationId": "1",
+          "destinationId": 1,
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
