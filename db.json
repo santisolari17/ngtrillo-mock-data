@@ -91,7 +91,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 450
         },
         { 
           "id": "AA018", 
@@ -99,7 +99,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 455
         },
         { 
           "id": "AA019", 
@@ -107,7 +107,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 425
         },
         { 
           "id": "AA220", 
@@ -115,7 +115,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 460
         },
         { 
           "id": "AA221", 
@@ -123,7 +123,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 440
         }
       ]
     },
@@ -137,7 +137,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 510
         },
         { 
           "id": "UA002", 
@@ -145,7 +145,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 500
         },
         { 
           "id": "UA100", 
@@ -153,7 +153,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 490
         },
         { 
           "id": "UA101", 
@@ -161,7 +161,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 495
         },
         { 
           "id": "UA102", 
@@ -169,7 +169,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": "450"
+          "Price": 505
         }
       ]
     }
