@@ -91,7 +91,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 450,
+          "price": 450,
           "seatsAvailable": 2
         },
         { 
@@ -100,7 +100,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 455,
+          "price": 455,
           "seatsAvailable": 4
         },
         { 
@@ -109,7 +109,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 425,
+          "price": 425,
           "seatsAvailable": 12
         },
         { 
@@ -118,7 +118,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 460,
+          "price": 460,
           "seatsAvailable": 10
         },
         { 
@@ -127,7 +127,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 440,
+          "price": 440,
           "seatsAvailable": 7
         }
       ]
@@ -142,7 +142,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 510,
+          "price": 510,
           "seatsAvailable": 8
         },
         { 
@@ -151,7 +151,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 500,
+          "price": 500,
           "seatsAvailable": 14
         },
         { 
@@ -160,7 +160,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 490,
+          "price": 490,
           "seatsAvailable": 9
         },
         { 
@@ -169,7 +169,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 495,
+          "price": 495,
           "seatsAvailable": 11
         },
         { 
@@ -178,7 +178,7 @@
           "departureDate": "Mar 29th - Dep 13:45 / Arr 17:30",
           "rating": "Very good flight 8.1/10",
           "features": "Wifi - Movies",
-          "Price": 505,
+          "price": 505,
           "seatsAvailable": 6
         }
       ]
